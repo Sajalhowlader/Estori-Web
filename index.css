@@ -1,0 +1,1058 @@
+*{margin:0;padding:0;}
+header#first_header {
+
+    overflow: hidden;
+    padding: 20px 0px;
+}
+div#headerraper {
+    width: 1170px;
+    margin: auto;
+}
+div#headerdiv {width: 341px;font-size: 18px;
+    font-family: arial black;
+    float: left;
+    padding: 1px 0px;
+}
+div#icondiv {
+    width: 546px;
+    float: left;
+}
+li#icon {
+    float: left;
+    list-style: none;
+    padding: 18px 17px;
+}
+div#fontwasom {
+    float: left;
+    width: 235px;
+    padding: 18px 0px;
+}
+section#firstsection {
+    overflow: hidden;
+    background:#C8EBFF;
+}
+
+div#sectionraper {
+    max-width: 1170px;
+    margin: auto;
+}
+
+div#imgdiv {
+    width: 550px;
+    float: left;
+}
+
+img {
+    width: 100%;
+}
+
+div#containdiv {
+    width: 550px;
+    float: right;
+    margin-top: 110px;
+}
+
+p#discount {
+    font-size: 25px;
+    font-family: "Yellowtail",cursive;
+    color: #2577fd;
+    margin-bottom: 15px;
+}
+
+p#connection {
+    font-size: 80px;
+    font-weight: 700;
+    font-family: system-ui;
+    color: black;
+}
+p#cloth {
+    font-size: 25px;
+    font-family: monospace;
+    margin-top: 10px;
+}
+
+button#shop {
+    padding: 15px 22px;
+    border-radius: 25px;
+    border-color: #c8ebff;
+    border: none;
+    background: #3c82ab;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 32px;
+}
+div#hraper {
+    text-align: center;
+    font-size: 50px;
+    border-bottom: 1px solid #cdcccc;
+    margin-bottom: 76px;
+    font-family: sans-serif;
+}
+
+section#secondsection {
+    overflow: hidden;
+    margin-top: 89px;
+    margin-bottom: 17px;
+}
+div#imgandicon {
+    width: 385px;
+    display: inline-block;
+    margin-bottom: 115px;
+}
+
+div#imginfo {
+    margin-top: -155px;
+    margin-left: 223px;
+    line-height: 10px;
+}
+
+div#singleimg {padding: 0px 12px;}
+
+div#ssrapper {
+    width: 1170px;
+    margin: auto;
+}
+
+div#allimagerap{
+    margin-bottom: 60px;
+}
+p#sp {
+    font-size: 20px;
+    padding: 7px 0px;
+    font-family: fantasy;
+    color: #363333;
+}
+
+p#spp {
+    font-size: 20px;
+    font-family: system-ui;
+    padding: 10px 0px;
+    color: #0c4a0c;
+    font-weight: 500;
+}
+
+p#sppp {
+    font-size: 18px;
+    font-family: -webkit-pictograph;
+    padding: 8px 0px;
+    position: absolute;
+}
+section#thirdsection {
+    overflow: hidden;
+    margin-bottom: 101px;
+}
+
+div#thirdsectionrapper {width: 1170px;margin: auto;}
+
+div#hrafper {
+    width: 395px;
+    padding: 15px 0px;
+    font-size: 35px;
+    float: left;
+    font-family: sans-serif;
+}
+
+div#ulraperr {
+    float: right;
+    width: 450px;
+}
+
+li#list {
+    float: left;
+    list-style: none;
+    padding: 36px 26px;
+}
+
+div#titleraper {
+    overflow: hidden;
+    margin-bottom: 80px;
+    border-bottom: 2px solid #ededed;
+}
+div#pimgidiv {
+    width: 350px;
+}
+
+div#photoconrap {
+    display: inline-block;
+    margin: 15px;
+    overflow: hidden;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+}
+div#containg {
+    text-align: center;
+    padding: 22px 0px;
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 22px;
+}
+div#imagef {
+    width: 225px;
+    float: left;
+    margin-left: 200px;
+    margin-top: -115px;
+}
+
+section#foursection {
+    padding: 140px 0px;
+    overflow: hidden;
+}
+
+div#containgrappwr {
+    background:#FFF7D8;
+    width: 1170px;
+    margin: auto;
+    height: 584px;
+}
+
+div#contaaing {
+    width: 520px;
+    margin-left: 76px;
+    float: left;
+    margin-top: 150px;
+}
+
+h1#ffc {
+    font-size: 50px;
+    font-family: arial;
+}
+
+p#paragraph {
+    padding: 25px 0px;
+    font-size: 19px;
+    font-family: monospace;
+    font-weight: bold;
+    color: #3e3e3a;
+}
+
+button#lastbutton {
+    padding: 15px 40px;
+    font-size: 18px;
+    font-family: system-ui;
+    outline: none;
+    border: none;
+    background: #0a0a0aed;
+    font-weight: bolder;
+    border-radius: 25px;
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+    letter-spacing: 2px;
+}
+div#cloth {
+    width: 174px;
+    float: right;
+    margin-top: -70px;
+    margin-right: 125px;
+    width: 160px;
+}
+div#imaggeddiv {
+    width: 337px;
+    margin-right: 95px;
+}
+
+div#containtmini {
+    width: 121px;
+    float: right;
+}
+
+section#fivesection {
+    overflow: hidden;
+    padding: 50px 0px;
+    margin-bottom: 130px;
+}
+
+div#widthandmargin {
+    width: 1170px;
+    margin: auto;
+}
+div#displayinline {
+    display: inline-block;
+}
+
+div#pbutton {
+    float: left;
+    margin-bottom: 0px;
+    width: 440px;
+    margin-right: 10px;
+}
+
+h1#local {
+    font-size: 52px;
+    font-family: serif;
+}
+div#minidiv {
+    width: 276px;
+    overflow: hidden;
+}
+
+div#ppdd {
+    float: left;
+    width: 120px;
+    margin-top: 70px;
+    font-size: 20px;
+    font-weight: bold;
+}
+p#coco {
+    font-size: 24px;
+    padding: 25px 0px;
+    margin-top: 14px;
+}
+
+button#cocobutton {
+    padding: 14px 44px;
+    border-radius: 39px;
+    outline: none;
+    border: 1px solid #7f7fa1;
+    background: #457eff;
+    font-size: 22px;
+    color: white;
+    font-weight: bolder;
+    margin-top: 45px;
+}
+div#pantimg {
+    width: 258px;
+    margin-top: 100px;
+}
+section#sixthsection {
+    overflow: hidden;
+    padding: 20px 0px;
+}
+
+div#hightant {
+    width: 1170px;
+    margin: auto;
+    background: #DFF1FF;
+    overflow: hidden;
+    padding: 100px 0px;
+    border-radius: 3px;
+}
+
+h1#loddcal {
+    font-family: system-ui;
+    font-size: 48px;
+}
+
+div#von {
+    width: 500px;
+    text-align: center;
+    float: left;
+    margin-left: 78px;
+}
+
+div#input {
+    float: right;
+}
+
+div#subbmitbttn {
+    width: 505px;
+    float: right;
+    overflow: hidden;
+    margin-right: 47px;
+    margin-top: 80px;
+}
+
+input#khela{
+    padding: 20px 99px;
+    outline: none;
+    border: none;
+    font-size: 17px;
+    text-align: left;
+    border-radius: 31px;
+    background: #fbfbfb;
+}
+
+button#losangle {
+    padding: 20px 35px;
+    border: none;
+    background: #2577FD;
+    font-size: 17px;
+    margin-left: -107px;
+    border-radius: 41px;
+    font-weight: bolder;
+    color: white;
+    letter-spacing: 1px;
+}
+
+p#jjdf {
+    font-size: 25px;
+    font-family: monospace;
+    padding: 29px 0px;
+    margin-top: 24px;
+}
+div#localinput {
+    width: 1170px;
+    margin: auto;
+    padding: 100px 0px;
+}
+
+div#security {
+    width: 29.33%;
+    float: left;
+    margin-left: 45px;
+}
+
+p#secqp {
+    width: 225px;
+    font-size: 19px;
+    padding: 25px 0px;
+    line-height: 25px;
+    font-family: system-ui;
+    color: #1e1e1e;
+}
+
+h2#receive {
+    font-family: ui-sans-serif;
+    font-size: 25px;
+    color: #222222;
+}
+div#imgls {
+    width: 285px;
+    width: 345px;
+    margin-left: -70px;
+    float: left;
+}
+
+section#sevensection {
+    overflow: hidden;
+}
+
+div#marginautodivd {
+    width: 1240px;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 92px;
+}
+div#imglsj{
+    width: 285px;
+    width: 345px;
+    float: left;
+    margin-left: 993px;
+    margin-top: -338px;
+}
+div#marginauto {
+    width: 1170px;
+    margin: auto;
+    padding: 50px 0px;
+    overflow: hidden;
+}
+
+div#automarg {
+    width: 260px;
+    display: inline-block;
+}
+div#automarges{
+    width:260px;
+    float: left;
+    margin-right: 120px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: monospace;
+   
+    color: #5a585a;
+    font-weight: 300;
+}
+
+li#unilk {
+    list-style: none;
+    padding: 5px 0px;
+}
+
+p#bk {
+    margin-bottom: 31px;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: arial;
+    color: #1e1d1d;
+}
+p#ck {
+    font-size: 19px;
+    font-family: arial;
+    color: #262626;
+    line-height: 27px;
+    width: 270px;
+}
+p#bf {
+    margin-bottom: 20px;
+    font-size: 31px;
+    font-weight: bold;
+    color: #2e2d2d;
+    text-align: left;
+    margin-left: 20px;
+    font-family: arial black;
+}
+*{margin:0;padding:0;}
+header#first_header {
+
+overflow: hidden;
+
+padding: 20px 0px;
+}
+div#headerraper {
+    width: 1170px;
+    margin: auto;
+}
+div#headerdiv {
+    width: 210px;
+    font-size: 15px;
+    font-family: arial black;
+    float: left;
+    /* padding: 1px 0px; */
+    margin-top: 5px;
+}
+div#icondiv {
+    width: 514px;
+    float: left;
+    /* background: red; */
+    font-size: 18px;
+    font-family: math;
+}
+li#icon {
+    float: left;
+    list-style: none;
+    padding: 18px 17px;
+    cursor: pointer;
+    font-size: 18px;
+}
+div#fontwasom {
+    float: left;
+    width: 442px;
+    /* padding: 10px 0px; */
+    /* background: yellow; */
+    margin-top: -11px;
+}
+section#firstsection {
+    overflow: hidden;
+    background:#C8EBFF;
+}
+
+div#sectionraper {
+    max-width: 1170px;
+    margin: auto;
+}
+
+div#imgdiv {
+    width: 550px;
+    float: left;
+}
+
+img {
+    width: 100%;
+}
+
+div#containdiv {
+    width: 550px;
+    float: right;
+    margin-top: 110px;
+}
+
+p#discount {
+    font-size: 25px;
+    font-family: "Yellowtail",cursive;
+    color: #2577fd;
+    margin-bottom: 15px;
+}
+
+p#connection {
+    font-size: 80px;
+    font-weight: 700;
+    font-family: system-ui;
+    color: black;
+}
+p#cloth {
+    font-size: 25px;
+    font-family: monospace;
+    margin-top: 10px;
+}
+
+button#shop {
+    padding: 15px 22px;
+    border-radius: 25px;
+    border-color: #c8ebff;
+    border: none;
+    background: #3c82ab;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 32px;
+}
+div#hraper {
+    text-align: center;
+    font-size: 50px;
+    border-bottom: 1px solid #cdcccc;
+    margin-bottom: 76px;
+    font-family: sans-serif;
+}
+
+section#secondsection {
+    overflow: hidden;
+    margin-top: 89px;
+    margin-bottom: 30px;
+}
+div#imgandicon {
+    width: 385px;
+    display: inline-block;
+    margin-bottom: 115px;
+}
+
+div#imginfo {
+    margin-top: -155px;
+    margin-left: 223px;
+    line-height: 10px;
+}
+
+div#singleimg {padding: 0px 12px;}
+
+div#ssrapper {
+    width: 1170px;
+    margin: auto;
+}
+
+div#allimagerap{
+    margin-bottom: 60px;
+}
+p#sp {
+    font-size: 20px;
+    padding: 7px 0px;
+    font-family: fantasy;
+    color: #363333;
+}
+
+p#spp {
+    font-size: 20px;
+    font-family: system-ui;
+    padding: 10px 0px;
+    color: #0c4a0c;
+    font-weight: 500;
+}
+
+p#sppp {
+    font-size: 18px;
+    font-family: -webkit-pictograph;
+    padding: 8px 0px;
+    position: absolute;
+}
+section#thirdsection {
+    overflow: hidden;
+    margin-bottom: 125px;
+}
+
+div#thirdsectionrapper {width: 1170px;margin: auto;}
+
+div#hrafper {
+    width: 395px;
+    padding: 15px 0px;
+    font-size: 35px;
+    float: left;
+    font-family: sans-serif;
+}
+
+div#ulraperr {
+    float: right;
+    width: 450px;
+}
+
+li#list {
+    float: left;
+    list-style: none;
+    padding: 36px 26px;
+}
+
+div#titleraper {
+    overflow: hidden;
+    margin-bottom: 80px;
+    border-bottom: 2px solid #ededed;
+}
+div#pimgidiv {
+    width: 350px;
+}
+
+div#photoconrap {
+    display: inline-block;
+    margin: 15px;
+    overflow: hidden;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+}
+div#containg {
+    text-align: center;
+    padding: 22px 0px;
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 22px;
+}
+div#imagef {
+    width: 225px;
+    float: left;
+    margin-left: 200px;
+    margin-top: -115px;
+}
+
+section#foursection {
+    padding: 140px 0px;
+    overflow: hidden;
+}
+
+div#containgrappwr {
+    background:#FFF7D8;
+    width: 1170px;
+    margin: auto;
+    height: 584px;
+}
+
+div#contaaing {
+    width: 520px;
+    margin-left: 76px;
+    float: left;
+    margin-top: 150px;
+}
+
+h1#ffc {
+    font-size: 50px;
+    font-family: arial;
+}
+
+p#paragraph {
+    padding: 25px 0px;
+    font-size: 19px;
+    font-family: monospace;
+    font-weight: bold;
+    color: #3e3e3a;
+}
+
+button#lastbutton {
+    padding: 15px 40px;
+    font-size: 18px;
+    font-family: system-ui;
+    outline: none;
+    border: none;
+    background: #0a0a0aed;
+    font-weight: bolder;
+    border-radius: 25px;
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+    letter-spacing: 2px;
+}
+div#cloth {
+    width: 174px;
+    float: right;
+    margin-top: -70px;
+    margin-right: 125px;
+    width: 160px;
+}
+div#imaggeddiv {
+    width: 337px;
+    margin-right: 95px;
+}
+
+div#containtmini {
+    width: 121px;
+    float: right;
+}
+
+section#fivesection {
+    overflow: hidden;
+    padding: 50px 0px;
+    margin-bottom: 130px;
+}
+
+div#widthandmargin {
+    width: 1170px;
+    margin: auto;
+}
+div#displayinline {
+    display: inline-block;
+}
+
+div#pbutton {
+    float: left;
+    margin-bottom: 0px;
+    width: 440px;
+    margin-right: 10px;
+}
+
+h1#local {
+    font-size: 52px;
+    font-family: serif;
+}
+div#minidiv {
+    width: 276px;
+    overflow: hidden;
+}
+
+div#ppdd {
+    float: left;
+    width: 120px;
+    margin-top: 70px;
+    font-size: 20px;
+    font-weight: bold;
+}
+p#coco {
+    font-size: 24px;
+    padding: 25px 0px;
+    margin-top: 14px;
+}
+
+button#cocobutton {
+    padding: 14px 44px;
+    border-radius: 39px;
+    outline: none;
+    border: 1px solid #7f7fa1;
+    background: #457eff;
+    font-size: 22px;
+    color: white;
+    font-weight: bolder;
+    margin-top: 45px;
+}
+div#pantimg {
+    width: 258px;
+    margin-top: 100px;
+}
+section#sixthsection {
+    overflow: hidden;
+    padding: 20px 0px;
+}
+
+div#hightant {
+    width: 1170px;
+    margin: auto;
+    background: #DFF1FF;
+    overflow: hidden;
+    padding: 100px 0px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+}
+
+h1#loddcal {
+    font-family: system-ui;
+    font-size: 48px;
+}
+
+div#von {
+    width: 500px;
+    text-align: center;
+    float: left;
+    margin-left: 78px;
+}
+
+div#input {
+    float: right;  
+}
+
+div#subbmitbttn {
+    width: 505px;
+    float: right;
+    overflow: hidden;
+    margin-right: 47px;
+    margin-top: 80px;
+}
+
+input#Khela{
+    padding: 20px 99px;
+    outline: none;
+    border: none;
+    font-size: 17px;
+    text-align: left;
+    border-radius: 31px;
+    background: #fbfbfb;
+}
+
+button#losangle {
+    padding: 20px 35px;
+    border: none;
+    background: #2577FD;
+    font-size: 17px;
+    margin-left: -107px;
+    border-radius: 41px;
+    font-weight: bolder;
+    color: white;
+    letter-spacing: 1px;
+}
+
+p#jjdf {
+    font-size: 25px;
+    font-family: monospace;
+    padding: 29px 0px;
+    margin-top: 24px;
+}
+div#localinput {
+    width: 1170px;
+    margin: auto;
+    padding: 103px 0px;
+    margin-bottom: 130px;
+}
+
+div#security {
+    width: 29.33%;
+    float: left;
+    margin-left: 45px;
+}
+
+p#secqp {
+    width: 225px;
+    font-size: 19px;
+    padding: 18px 0px;
+    line-height: 25px;
+    font-family: system-ui;
+    color: #1e1e1e;
+}
+
+h2#receive {
+    font-family: ui-sans-serif;
+    font-size: 25px;
+    color: #222222;
+}
+div#imgls {
+    width: 285px;
+    width: 345px;
+    margin-left: -70px;
+    float: left;
+}
+
+section#sevensection {
+    overflow: hidden;
+}
+
+div#marginautodivd {
+    width: 1240px;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 125px;
+}
+div#imglsj{
+    width: 285px;
+    width: 345px;
+    float: left;
+    margin-left: 993px;
+    margin-top: -338px;
+}
+div#marginauto {
+    width: 1170px;
+    margin: auto;
+    padding: 50px 0px;
+    overflow: hidden;
+}
+
+div#automarg {
+    width: 260px;
+    display: inline-block;
+}
+div#automarges{
+    width:260px;
+    float: left;
+    margin-right: 120px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: monospace;
+   
+    color: #5a585a;
+    font-weight: 300;
+}
+
+li#unilk {
+    list-style: none;
+    padding: 5px 0px;
+}
+
+p#bk {
+    margin-bottom: 31px;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: arial;
+    color: #1e1d1d;
+}
+p#ck {
+    font-size: 19px;
+    font-family: arial;
+    color: #262626;
+    line-height: 27px;
+    width: 270px;
+}
+p#bf {
+    margin-bottom: 20px;
+    font-size: 31px;
+    font-weight: bold;
+    color: #2e2d2d;
+    text-align: left;
+    margin-left: 20px;
+    font-family: arial black;
+}
+footer {
+    padding: 22px 0px;
+    background: #0a0a0a;
+    margin-top: 100px;
+}
+
+div#footdiv {
+    text-align: center;
+    font-size: 17px;
+    color: white;
+}
+#teach{
+    /* background:#1e1d1d; */
+    font-size: 14px;
+    outline: none;
+    padding: 10px 0px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    padding-left: 15px;
+}
+span#search {
+    font-size: 18px;
+    margin-left: -47px;
+    color: #505050;
+}
+
+span#heart {
+    padding: 15px 15px;
+    /* background: radial-gradient(black, transparent); */
+    border-radius: 50px;
+    border: 1px solid black;
+    margin-left: 38px;
+    margin-right: 10px;
+}
+span#buscet {
+    padding: 15px 15px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-right: 17px;
+}
+button#buttonsing_up {
+    padding: 12px 20px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    color: white;
+    background: #009fff;
+    border-radius: 29px;
+}
+p#blockk {
+    margin-top: 10px;
+}
+
+span#star {
+    color: #ffb203;
+}
+
+span#colorstar {
+    color: gray;
+}
+#icondiv ul li:hover{color: #fb5100;transition: 0.3s;}
+p#sec {
+    font-size: 35px;
+    font-weight: normal;
+    margin-bottom: 16px;
+    color: #464448;
+}
+#firstsection:hover #imgdiv{transform:scale(1.1);transition: all 1s;}
+#pimgidiv img:hover{transform: scale(1.1);transition: all 1s;}
+#shop:hover{background: chocolate;color:white;transition: all 0.5s;}
+#lastbutton:hover{background:#00adff;color:black;transition: all 0.5s;}
+#cocobutton:hover{background:black;color:white;transition: all 0.5s;}
+#losangle:hover{background:black;color:white;transition: all 0.5s;}
